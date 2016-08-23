@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:id="@+id/key"
+        android:layout_gravity="right"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/iterator"
+        android:layout_gravity="center" />
+
+    <TextView
+        android:id="@+id/whilecycle"
+        android:layout_gravity="center" />
+
+    <TextView
+        android:id="@+id/forcycle"
+        android:layout_gravity="center" />
+</merge>
+
+

@@ -1,0 +1,10 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportHeight="24.0"
+    android:viewportWidth="24.0">
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M2.01,21L23,12 2.01,3 2,10l15,2 -15,2z" />
+</vector>
+<!-- From: file:/D:/GoogleDrive/AndroidHighPerformance/04_Memory_DIEGO/Code/4666_04_1stDraft/mobile/src/main/res/drawable-v21/ic_menu_send.xml -->

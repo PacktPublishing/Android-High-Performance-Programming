@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Chapter 4 - Memory</string>
+    <string name="book_title">Android High Performance Programming</string>
+    <string name="title_cycle_test">Cycles Performance Test</string>
+    <string name="title_for_loop_test">For-Loop Performance Test</string>
+    <string name="title_object_pool">Object Pool Pattern</string>
+    <string name="title_fly_weight">FlyWeight Pattern</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_view_holder_pattern">ViewHolderPatternActivity</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string-array name="cycles_test_labels">
+        <item>Iterator</item>
+        <item>While cycle</item>
+        <item>For cycle</item>
+    </string-array>
+
+    <string-array name="for_test_labels">
+        <item>Classic</item>
+        <item>Faster</item>
+        <item>Enhanced</item>
+    </string-array>
+</resources>

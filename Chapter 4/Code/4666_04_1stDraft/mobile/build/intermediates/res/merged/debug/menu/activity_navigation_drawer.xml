@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/cycles_test"
+            android:title="@string/title_cycle_test" />
+        <item
+            android:id="@+id/for_loop_test"
+            android:title="@string/title_for_loop_test" />
+        <item
+            android:id="@+id/object_pool"
+            android:title="@string/title_object_pool" />
+        <item
+            android:id="@+id/fly_weight"
+            android:title="@string/title_fly_weight" />
+    </group>
+
+</menu>
+<!-- From: file:/D:/GoogleDrive/AndroidHighPerformance/04_Memory_DIEGO/Code/4666_04_1stDraft/mobile/src/main/res/menu/activity_navigation_drawer.xml -->

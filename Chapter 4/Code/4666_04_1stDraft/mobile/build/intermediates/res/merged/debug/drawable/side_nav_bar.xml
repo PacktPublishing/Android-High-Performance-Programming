@@ -1,0 +1,9 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <gradient
+        android:angle="135"
+        android:centerColor="@color/colorPrimaryDark"
+        android:endColor="@color/colorAccent"
+        android:startColor="@color/colorPrimary"
+        android:type="linear" />
+</shape><!-- From: file:/D:/GoogleDrive/AndroidHighPerformance/04_Memory_DIEGO/Code/4666_04_1stDraft/mobile/src/main/res/drawable/side_nav_bar.xml -->

@@ -1,0 +1,14 @@
+buildTypes {
+        release {
+            minifyEnabled false
+            {…}
+            ndk {
+                debuggable = true
+            }
+
+        }
+        debug {
+            debuggable = true
+            jniDebuggable = true
+        }
+    }

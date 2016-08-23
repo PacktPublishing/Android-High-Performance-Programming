@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:text="Check the logcat...">
+</TextView><!-- From: file:/D:/GoogleDrive/AndroidHighPerformance/04_Memory_DIEGO/Code/4666_04_1stDraft/mobile/src/main/res/layout/content_pattern.xml -->

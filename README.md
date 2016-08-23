@@ -1,4 +1,4 @@
-# Android-High-Performance-Programming
+# Android High Performance Programming
 This code is aimed at developers with advanced knowledge of Android, who want to push their knowledge and learn techniques to increase the performance of their
 applications. We assume they are comfortable working with the entire Android SDK, and have been doing it for years. They are familiar also with frameworks such as the
 NDK to use native code, which is crucial to performance.

@@ -8,3 +8,7 @@ NDK to use native code, which is crucial to performance.
 [Android NDK Game Development Cookbook](https://www.packtpub.com/game-development/android-ndk-game-development-cookbook?utm_source=GitHub&utm_medium=Repository&utm_campaign=9781782167785)
 
 [Unity 3D Game Development by Example [Video]](https://www.packtpub.com/game-development/unity-3d-game-development-example-video?utm_source=GitHub&utm_medium=Repository&utm_campaign=9781849695305)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781785288951">https://packt.link/free-ebook/9781785288951 </a> </p>
